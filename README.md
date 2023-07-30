@@ -1,0 +1,2 @@
+# HighlightedTextInImage
+Created with CodeSandbox
